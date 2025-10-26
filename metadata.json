@@ -1,0 +1,7 @@
+{
+  "name": "Snap & Speak: AI Language Learner",
+  "description": "A mobile-first web application for language learning. Take a photo or upload an image, and let the built-in Chrome AI describe it and provide key vocabulary words to help you learn what's in the picture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
